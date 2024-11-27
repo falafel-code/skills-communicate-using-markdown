@@ -3,7 +3,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-// A simple React functional component
+## A simple React functional component
 ```
 import React, { useState } from 'react';
 
