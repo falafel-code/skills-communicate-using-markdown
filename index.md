@@ -24,3 +24,8 @@ function Greeting({ initialName }) {
 
 export default Greeting;
 ```
+
+## Task list
+
+- [ ] Finish this coursr
+- [ ] make a beautiful page 
